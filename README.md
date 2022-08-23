@@ -25,6 +25,6 @@
 <p align="center">
   <img width="500" src="https://github.com/Prajwal-YP/imageCache/blob/main/m4.png" alt="Main">
   <br>
-  <b>4. Main Page<b>
+  <b>4. Main Page Saved<b>
 </p>
   
