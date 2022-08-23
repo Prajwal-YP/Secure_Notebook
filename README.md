@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="300" src="https://github.com/Prajwal-YP/imageCache/blob/main/m1.png" alt="Main">
+  <img width="500" src="https://github.com/Prajwal-YP/imageCache/blob/main/m1.png" alt="Main">
   <br>
   <b>1. SignUp Page<b>
 </p>
